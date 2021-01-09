@@ -114,7 +114,7 @@ str(my.vector.2)
 
 -------------------------------------------------------------
   
-  ### abaixo coloco o código do Rodrigo para servir de base.
+  ### I write Rodrigo's original class about vectors to serve as base and facilitate the job here.
   
   ---
   title: "Basic concepts with R (part 2)"
