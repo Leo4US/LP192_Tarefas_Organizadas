@@ -18,8 +18,8 @@ Rodrigo Esteves de Lima Lopes \
     - Use the two first vectors in a Exponentiation (squared or cubed) and save the result in two new variables
 1. Post your results to Google Classroom in a text file so everyone can see
 
-# Módulo 1 - 03_Basics
-## Basic Notions_Module_01_Vectors
+# Módulo 1 - 03_Basics - Leandro
+## Basic Notions_Module_03_Vectors
 
 #1 Create a numeric vector from 1 until 100
 Tripa <- seq(1:100)
@@ -114,7 +114,7 @@ str(my.vector.2)
 
 -------------------------------------------------------------
   
-  ### I write Rodrigo's original class about vectors to serve as base and facilitate the job here.
+  ### I have writen Rodrigo's original class about vectors bellow to serve as base and facilitate the job here.
   
   ---
   title: "Basic concepts with R (part 2)"
