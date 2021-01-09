@@ -111,6 +111,11 @@ typeof (my.vector.2)
 class(my.vector.2)
 str(my.vector.2)
 
+### from class I could've learnt some more
+seq(0, 20, by = 2)
+### the sequence jump 2 by 2.
+seq(from = 20, to = 1000, by = 5)
+### the sequence jump 5 by 5.
 
 -------------------------------------------------------------
   
