@@ -76,6 +76,7 @@ rows.names <- c('Claudinei','Marcelo','Telma','Tiago','Mariana','Daniel','Felipe
 # - Name the columns and rows according to some criteria
 
 Primos <- matrix(c('Primo 1', 'Primo 2','Primo 3','Primo 4','Primo 5','Primo 6','Primo 7','Primo 8','Primo 9','Primo 10','Primo 11','Primo 12','Primo 13','Primo 14','Primo 15'), nrow = 15, ncol = 3, byrow = FALSE)
+
 Primos
 
 ### The command bellow took me some time to think. I was trying to colnames and rownames before the variable Primos is atteched to the matrix. Then, after some tests I just have put the it over here. It's worked!
@@ -92,7 +93,9 @@ Primos [13, 3]
 
 
 # 3. Post your results to Google Classroom in a text file so everyone can see
+### Done.
 
+### below we have got an extra work ================================================================
 
 ### Rodrigo has created the folling next line bellow to understand better this step in the future. Because the next command is to create the matrix. And the other is to name a variable.
 matrix(c(1:15), nrow = 5, byrow = TRUE, dimnames = list(rows.names, columns.names))
