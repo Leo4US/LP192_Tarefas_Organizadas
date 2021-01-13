@@ -23,7 +23,7 @@
 1. Post your results to Google Classroom in a text file so everyone can see
 
 
-# ===============================================================
+# =================================================
 
 # Matrices Assigments
 ## Assignments for the section
@@ -95,7 +95,7 @@ Primos [13, 3]
 # 3. Post your results to Google Classroom in a text file so everyone can see
 ### Done.
 
-### below we have got an extra work ================================================================
+### below we have got an extra work ====================================
 
 ### Rodrigo has created the folling next line bellow to understand better this step in the future. Because the next command is to create the matrix. And the other is to name a variable.
 matrix(c(1:15), nrow = 5, byrow = TRUE, dimnames = list(rows.names, columns.names))
