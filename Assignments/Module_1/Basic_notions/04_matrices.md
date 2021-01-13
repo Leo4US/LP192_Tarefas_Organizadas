@@ -23,7 +23,7 @@
 1. Post your results to Google Classroom in a text file so everyone can see
 
 
-# =================================================
+# =============================================
 
 # Matrices Assigments
 ## Assignments for the section
@@ -135,7 +135,7 @@ matrix(c(1:15), nrow = 5, ncol=5, bycol = TRUE)
 
 ### -------------------------------------
 #' 
-#' We learnt a couple of things from the code above:
+#' We have learnt a couple of things from the code above:
 #' 
 #' 1. The operator "**:**" makes a numerical sequence in *R*
 #' 1. The option `byrow = TRUE` distributes the elements by lines
