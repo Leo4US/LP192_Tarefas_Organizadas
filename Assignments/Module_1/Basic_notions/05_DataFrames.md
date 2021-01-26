@@ -258,7 +258,45 @@ colnames(Country)<-"Country"
 
 cbind(my.data.frame,Country)
 
+# Data Frames Assignments
 
+## Assignments for the section
+
+# 1. Create a data frame with the name of 10 of your family members of friends following these instructions: 
+#   - Create a vector for each information:
+# . Their names
+# . Their ages
+# . Their marital status (logical)
+# . Their day/month of birth (date)
+# - Merge these vectors in a data frame
+# - Rename the columns accordingly
+
+names <- c('Lia', "Ducha", "Neco", "Ninha","Edson","Edna", "Antônio", "Márcio", "Elza", "Miriam")
+names
+
+birthdays <-as.Date(c("1945-06-22","1987-10-12","1915-11-10", "1940-11-15","1910-07-03","1982-06-21", "1981-10-10", "1970-02-28","2000-05-15","1913-02-02"))
+birthdays
+
+gender <-c("female","female",'male', "female","male","female","male","male","female","female")
+gender
+
+life.status <-c(FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE)
+life.status
+
+possible.age <-c(113,33, 79,80,110,38,66,77,88,99)
+possible.age
+
+data.frame(names,birthdays,gender,life.status,possible.age)
+my.data.frame <-data.frame(names,birthdays,gender,life.status,possible.age)
+my.data.frame
+
+colnames(my.data.frame) <-c("Names", 'Birthdays',"Gender","Life.Status","Possible.Age")
+my.data.frame
+
+# 1. Create a new vector with the state they are now
+# 1. Create a new vector with the city they are now
+# 1. Merge these new vector in the data frame
+# 1. Post your results to Google Classroom in a text file so everyone can see
 
 
 
